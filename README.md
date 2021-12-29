@@ -1,4 +1,4 @@
-# kdu-gpsd-app-driver
+# KDU-GPSD-App-Driver
 
 A new Flutter project.
 
