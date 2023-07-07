@@ -53,11 +53,3 @@ flutter run
 ## Contributing
 
 Contributions are welcome! If you find any issues with the app or have new feature suggestions, feel free to open an issue or submit a pull request.
-
-## Acknowledgments
-
-We would like to acknowledge the contributions of all developers and contributors who helped build and improve this app.
-
-For any questions or support, please contact us at [lahirudissanayake15@gmail.com](mailto:lahirudissanayake15@gmail.com).
-
-Let's make train tracking safer and more efficient together! Happy coding!
