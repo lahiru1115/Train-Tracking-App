@@ -1,4 +1,4 @@
-# Train Tracking App - Location Sharing
+# Train Tracking App
 
 ![App Logo](https://example.com/app-logo.png)
 
