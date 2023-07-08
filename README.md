@@ -24,7 +24,7 @@ Follow the instructions below to set up and run the app locally on your machine:
 
 2. **Clone the Repository:** Use the following command to clone the repository to your local machine:
 ```
-git clone https://github.com/lahiru1115/Train-Tracking-App
+git clone https://github.com/lahiru1115/Train-Tracking-App.git
 ```
 
 3. **Navigate to the Directory:** Enter the app directory:
