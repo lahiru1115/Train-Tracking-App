@@ -1,6 +1,6 @@
 # Train Tracking App
 
-![Cover Photo](assets/screenshots/Header.png)
+![Cover Photo](assets/screenshots/Cover.png)
 
 A location sharing app designed specifically for engine drivers to track their real-time locations while on duty. This app utilizes Flutter, Firebase, and the Google Maps API to provide a seamless experience for engine drivers.
 
