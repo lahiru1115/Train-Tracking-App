@@ -37,7 +37,7 @@ cd Train-Tracking-App
 flutter pub get
 ```
 
-5. **Configure Firebase:** Follow the Firebase setup guide to create a Firebase project and add the necessary configuration files to the app.
+5. **Configure Firebase:** Follow the Firebase setup guide to create a Firebase project and add the necessary configuration files to the app. (optional)
 
 6. **Run the App:** Use the following command to run the app on an emulator or connected device:
 ```
